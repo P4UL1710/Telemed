@@ -1,12 +1,23 @@
 Hey,P4Ul here this is a group project of a team name 404founders. This is to solve a problem statement released by government of punjab during SIH(Smart India Hackathon).
 The problem our team has taken is to make a healthcare web app for rural people for nabha.
+
+
 Our team has deeply researched on the problem statement and decided to make the web app named Telemed.
+
+
+
 What Telemed provides??
+
+
 We provide a healthcare platform where you can login via 2 types ie 1)As A Patient 2)As A Doctor.
+
+
 After Logiging in if u are a patient u can
 1)Book An Appointment.
 2)After Booking a Appointment choosing a doctor u would get a time scheduled.
 3)U would get a google meet link for the appointment scheduled time.
+
+
 Now as a Doctor
 1)Wait for someone to book 
 2)As soon as a booking arrive give a scheduled time 
